@@ -1,0 +1,10 @@
+v=200
+w=540
+tw=0
+fw=0
+v=tw+fw
+w=(2*tw+4*fw)
+tw=v-fw
+w=(2(v-fw)+4(fw))
+w=2v+2fw
+fw=(w-2v)/v
